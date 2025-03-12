@@ -17,5 +17,10 @@
         <module name="MagicNumber"/>
 
         <module name="HiddenField"/>
+
+        <module name="EmptyStatement"/>
+
+        <module name="MissingSwitchDefault"/>
+
     </module>
 </module>

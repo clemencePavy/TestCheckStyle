@@ -138,7 +138,7 @@
                 <artifactId>maven-checkstyle-plugin</artifactId>
                 <version>3.6.0</version>
                 <configuration>
-                    <configLocation>google_checks.xml</configLocation>
+                    <configLocation>./src/test/resources/regles-iut-caen.xml</configLocation>
                 </configuration>
             </plugin>
 
